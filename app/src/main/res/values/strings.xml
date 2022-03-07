@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Learnnn</string>
+    <string name="Button">Tombol</string>
+    <string name="info">Cracking the human brain to make learning as fun\n as watching Netflix, as addictive as browsing your instagram feed </string>
+    <string name="message">Message</string>
+    <string name="cracking">Cracking the human brain to make learning as fun\nas watching Netflix, as addictive as browsing your\ninstagram feed</string>
+    <string name="nama">Afifuddin</string>
+    <string name="st">. 1st</string>
+    <string name="talkabout">Talks about #techforgood and #socialenterpreneurship</string>
+    <string name="binaracademy">Binar Academy\nJakarta, Jakarta, Indonesia</string>
+    <string name="followers">24,342 followers</string>
+    <string name="connection">500 + Connection</string>
+    <string name="mutual"><b>307 mutual connection :</b> Anya Gerraldin,\n Putri Mariano, and 305 other</string>
+    <string name="bussines"><![CDATA[Hiring a Bussines Annalyst & 1 Other\nBinar Academy Jakarta Metropolitan Area 300 days Ago\nView both jobs]]></string>
+    <string name="highligts">Highligts</string>
+    <string name="yourbook">Your both work at Binar Academy</string>
+</resources>
